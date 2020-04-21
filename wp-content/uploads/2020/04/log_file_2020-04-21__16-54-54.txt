@@ -1,0 +1,95 @@
+
+---Downloaded files---
+The import files for: دموی اصلی were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://hassan.test
+Data file = C:\laragon\www\hassan/wp-content/themes/orchid-store/hwp_inc/import_files/content.xml
+Widget file = C:\laragon\www\hassan/wp-content/themes/orchid-store/hwp_inc/import_files/widget.wie
+Customizer file = C:\laragon\www\hassan/wp-content/themes/orchid-store/hwp_inc/import_files/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+ساید بار : 
+
+جستجوی محصول - جستوجو - Imported
+فیلتر محصولات براساس قیمت - فیلتر براساس قیمت - Imported
+دسته‌های محصولات - دسته بندی محصولات - Imported
+نقدهای محصول اخیر - بررسی های اخیر - Imported
+محصولات - با تخفیف - Imported
+
+Frontpage Widget Area : 
+
+OS: Banner - No Title - Imported
+OS: Featured Product Categories - دسته بندی های ویژه - Imported
+OS: Products - لباس زنانه - Imported
+OS: Services - No Title - Imported
+OS: Products By Category Filter - فیلتر دسته بندی محصول - Imported
+OS: Offer Advertisement - No Title - Imported
+OS: Products - مبلمان جدید - Imported
+OS: Recent Blog Posts - مطالب وبلاگ - Imported
+
+فوتر 1 : 
+
+OS: About Widget - درباره - Imported
+
+فوتر 2 : 
+
+محصولات براساس امتیاز - محصولات محبوب - Imported
+
+فوتر 3 : 
+
+محصولات - محصولات با تخفیف - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
